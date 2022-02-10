@@ -1,2 +1,6 @@
 It is so a planet!
+<<<<<<< HEAD
 Really? a planet?
+======
+Steven's line.
+>>>>>>> a0342e932877e8aaf9bce9d215b7f95e929e41c6
